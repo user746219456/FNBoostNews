@@ -1,1 +1,1 @@
-this repo for synora (best roblox executor in the world) check version
+**31.05.2025** — Начало активной разработки проекта и планировка первого релиза  
